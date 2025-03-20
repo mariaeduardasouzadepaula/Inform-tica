@@ -6,4 +6,6 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 ## 2° TRABALHO: Usando fórmulas e dados abertos
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/TRABALHO%20DA%20MARIAQ.pdf
 ![Captura de tela 2025-03-20 205013](https://github.com/user-attachments/assets/63dcbfe3-969a-41ad-a7c5-dfc4b2f64145)
+## 3° TRABALHO : Power BI: Usando dados abertos
+
 
