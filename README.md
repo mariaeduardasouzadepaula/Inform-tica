@@ -10,8 +10,8 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023%20-%20maria%20eduarda%20souza%20de%20paula.pbix
 ![Captura de tela 2025-03-20 205827](https://github.com/user-attachments/assets/c49eede2-884d-479f-9d62-e034966d99f0)
 ## 4° TRABALHO :Dados abertos 
-Segue o link: 
-
+Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/EXCEL%20MARIA%20E%20DANI.xlsx
+![Captura de tela 2025-04-10 205908](https://github.com/user-attachments/assets/e0408406-1748-462f-9523-aea71bcebc29)
 ## 4° TRABALHO ( PARTE 2) : Power BI
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/MARIA%20E%20DANI).pbix%20222.pbix
 ![Captura de tela 2025-04-10 204659](https://github.com/user-attachments/assets/f22b0518-37a0-4a80-8727-16bfcde2e621)
