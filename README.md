@@ -13,7 +13,7 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/EXCEL%20MARIA%20E%20DANI.xlsx
 ![Captura de tela 2025-04-10 205908](https://github.com/user-attachments/assets/e0408406-1748-462f-9523-aea71bcebc29)
 ## 4° TRABALHO ( PARTE 2) : Power BI
-Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/MARIA%20E%20DANI).pbix%20222.pbix
+Segue o link: 
 ![Captura de tela 2025-04-10 204659](https://github.com/user-attachments/assets/f22b0518-37a0-4a80-8727-16bfcde2e621)
 
 
