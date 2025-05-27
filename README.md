@@ -20,7 +20,48 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 ![image](https://github.com/user-attachments/assets/6e9af2f0-812f-4476-b22e-773118dc5fec)
 ## 5° TRABALHO ( PARTE 2 ) : COLLAB
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/C%C3%B3pia_de_Conhe%C3%A7a_o_Colab.ipynb
-![image](https://github.com/user-attachments/assets/26392a53-741f-4d01-baa6-bfd0d5b1750b)
+![image](https://github.com/user-attachments/assets/26392a53-741f-4d01-baa6-bfd0d5b1750b) 
+## 5° TRABALHO ( PARTE 3 ) RESPOSTAS DAS PERGUNTAS:
+📊 Projeto 1: Venda de Sorvete
+Objetivo
+Criar um modelo de regressão linear simples para prever a quantidade de sorvetes vendidos com base na temperatura do dia.
+Ferramentas usadas:
+-Excel
+-Python (Google Colab com Gemini)
+Resultado:
+No Excel, foi usada a função de tendência linear.
+No Python, , o modelo fez o mesmo processo, só que com visualizações gráficas e avaliação do desempenho com métricas.
+
+🍺 Projeto 2: Consumo de Cerveja
+Os modelos são iguais?
+Não. Apesar de ambos usarem regressão linear, no Excel os dados são analisados com menos recursos. Já no Python é possível usar múltiplas variáveis ao mesmo tempo (regressão linear múltipla), além de mostrar a importância de cada uma no resultado.
+
+Qual modelo eu usaria? Por quê?
+Eu usaria o modelo em Python, porque ele é mais completo, mostra os gráficos, as métricas de erro, e permite prever com mais precisão. Além disso, o ambiente Colab com Gemini ajuda a entender o código de forma interativa.
+
+Comparação com artigo do Medium
+No artigo do Medium, o modelo também usou regressão linear múltipla com Python, semelhante ao que fiz no Colab. Porém, lá foram usadas outras variáveis e talvez outro conjunto de dados. A ideia geral é a mesma, mas os resultados podem variar de acordo com as variáveis usadas e o local dos dados.
+
+🏠 Projeto 3: Venda de Casas
+Objetivo:
+Criar um modelo que consiga prever o preço de um imóvel com base em:
+
+-Área do imóvel
+-Número de garagens
+-Banheiros
+-Lareiras
+-Se tem mármore branco
+-Se tem mais de um andar
+
+Ferramentas usadas:
+
+-Excel 
+-Python 
+
+Resultado:
+No Excel, o modelo é mais limitado porque é difícil trabalhar com muitas variáveis ao mesmo tempo.
+
+No Python, conseguimos criar um modelo mais robusto, visualizar gráficos de dispersão e prever preços de forma mais precisa.
 
 
 
