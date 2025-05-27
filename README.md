@@ -15,6 +15,14 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 ## 4° TRABALHO ( PARTE 2) : Power BI
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/ATIVIDADE%205%20DANI%20E%20MARIA.pbix
 ![image](https://github.com/user-attachments/assets/b2a5221b-f7f6-4c83-a229-bfacfa361ce2)
+## 5° TRABALHO : Regressão linear: Excel e Machine Learning
+Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariaedani.xlsx
+![image](https://github.com/user-attachments/assets/6e9af2f0-812f-4476-b22e-773118dc5fec)
+## 5° TRABALHO ( PARTE 2 ) : COLLAB
+Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/C%C3%B3pia_de_Conhe%C3%A7a_o_Colab.ipynb
+![image](https://github.com/user-attachments/assets/26392a53-741f-4d01-baa6-bfd0d5b1750b)
+
+
 
 
 
