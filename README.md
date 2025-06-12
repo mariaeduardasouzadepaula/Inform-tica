@@ -63,7 +63,7 @@ No Excel, o modelo é mais limitado porque é difícil trabalhar com muitas vari
 
 No Python, conseguimos criar um modelo mais robusto, visualizar gráficos de dispersão e prever preços de forma mais precisa.
 ## 6° TRABALHO : Aplicativo Power Apps - Cadastro e Monitoramento de Produção
-
+Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/POWER%20APPS%20-%20FORMATO%20NAVEGADOR.mp4
 Este projeto foi desenvolvido com o Power Apps e Power Automate, com o objetivo de:
 
 📋 Cadastrar Clientes, Fornecedores e Ordens de Produção
@@ -76,7 +76,7 @@ Prazo médio de entrega
 Índice de avarias
 
 📹 Gravações do funcionamento do app e do fluxo automatizado estão disponíveis neste repositório.
-Segue o link: 
+
 
 
 
