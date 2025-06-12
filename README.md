@@ -76,7 +76,7 @@ Prazo médio de entrega
 Índice de avarias
 
 📹 Gravações do funcionamento do app e do fluxo automatizado estão disponíveis neste repositório.
-Segue o link: [![image](https://github.com/user-attachments/assets/600479da-b34e-445c-b8d3-ae154b5a866f)](https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/POWER%20APPS%20-%20FORMATO%20NAVEGADOR.mp4)
+Segue o link: 
 
 
 
