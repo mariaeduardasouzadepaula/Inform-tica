@@ -70,12 +70,6 @@ Este projeto foi desenvolvido com o Power Apps e Power Automate, com o objetivo 
 📋 Cadastrar Clientes, Fornecedores e Ordens de Produção
 🎨 Personalizar o layout do aplicativo (cores, fontes, ícones e estilo visual)
 
-🔁 Criar um fluxo automatizado no Power Automate para monitorar indicadores, como:
-
-Custo por quilômetro rodado
-Prazo médio de entrega
-Índice de avarias
-
 📹 Gravações do funcionamento do app e do fluxo automatizado estão disponíveis neste repositório.
 ![image](https://github.com/user-attachments/assets/f51821f6-b982-43fe-9078-4d20c0ee0aad)
 ![image](https://github.com/user-attachments/assets/60902a2a-5c82-440d-9797-bf6d4d518d88)
