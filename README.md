@@ -78,7 +78,7 @@ Este projeto foi desenvolvido com o Power Apps e Power Automate, com o objetivo 
 ![image](https://github.com/user-attachments/assets/2cbfc739-dabf-4b73-b77c-9b0a6e23e1f7)
 
 ## 7° TRABALHO
-Segue o link:
+Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/Design%20sem%20nome.mp4
  Entregou+
 
 Aplicativo desenvolvido no **Power Apps**, com apoio do **Power Automate**, para registrar e monitorar entregas logísticas.
