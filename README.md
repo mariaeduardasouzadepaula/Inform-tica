@@ -91,7 +91,7 @@ O sistema permite o gerenciamento de entregas com foco no controle de indicadore
 - ⏱️ Prazo médio de entrega  
 - 📦 Índice de avarias  
 
-## 🛠️ Tecnologias utilizadas
+ 🛠️ Tecnologias utilizadas
 
 - **Power Apps** – desenvolvimento da interface do aplicativo  
 - **Power Automate** – envio automático de notificações de entregas com avarias  
