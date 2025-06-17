@@ -62,6 +62,7 @@ Resultado:
 No Excel, o modelo é mais limitado porque é difícil trabalhar com muitas variáveis ao mesmo tempo.
 
 No Python, conseguimos criar um modelo mais robusto, visualizar gráficos de dispersão e prever preços de forma mais precisa.
+
 ## 6° TRABALHO : Aplicativo Power Apps - Cadastro e Monitoramento de Produção
 Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/POWER%20APPS%20-%20FORMATO%20NAVEGADOR.mp4
 
@@ -75,6 +76,48 @@ Este projeto foi desenvolvido com o Power Apps e Power Automate, com o objetivo 
 ![image](https://github.com/user-attachments/assets/60902a2a-5c82-440d-9797-bf6d4d518d88)
 ![image](https://github.com/user-attachments/assets/a9d94413-fda9-45c3-8adf-20dda3b5d4f5)
 ![image](https://github.com/user-attachments/assets/2cbfc739-dabf-4b73-b77c-9b0a6e23e1f7)
+
+## 7° TRABALHO
+Segue o link:
+# Entregou+
+
+Aplicativo desenvolvido no **Power Apps**, com apoio do **Power Automate**, para registrar e monitorar entregas logísticas.
+
+## 🔧 Objetivo
+
+O sistema permite o gerenciamento de entregas com foco no controle de indicadores essenciais, como:
+
+- 🚛 Custo por quilômetro rodado  
+- ⏱️ Prazo médio de entrega  
+- 📦 Índice de avarias  
+
+## 🛠️ Tecnologias utilizadas
+
+- **Power Apps** – desenvolvimento da interface do aplicativo  
+- **Power Automate** – envio automático de notificações de entregas com avarias  
+- **Dataverse** – armazenamento de dados estruturados em tabelas  
+
+## 🔎 Funcionalidades
+
+- Registro de entregas, produtos, clientes e transportadoras  
+- Visualização de indicadores de desempenho logístico  
+- Interface intuitiva e responsiva  
+- Gatilhos automáticos com fluxo no Power Automate  
+
+## 🎥 Demonstração
+
+O vídeo com o funcionamento do aplicativo está incluído neste repositório.  
+As capturas de tela mostram a interface principal e os dados registrados.
+![image](https://github.com/user-attachments/assets/427bf60a-50f6-485f-84db-2eceff7239f8)
+![image](https://github.com/user-attachments/assets/a50d2730-e170-4557-82b2-1b1d218b4e99)
+![image](https://github.com/user-attachments/assets/f6b641e2-bb68-4da2-a265-3ced23e75de5)
+![image](https://github.com/user-attachments/assets/f2b2d0a2-950c-48a5-9b83-c1145e8ebbff)
+![image](https://github.com/user-attachments/assets/7f432148-cde9-4717-b658-45dbcf67ba83)
+![image](https://github.com/user-attachments/assets/5b3ccea5-cfbc-4491-a1c3-acb1ba663098)
+
+---
+
+
 
 
 
