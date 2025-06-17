@@ -79,11 +79,11 @@ Este projeto foi desenvolvido com o Power Apps e Power Automate, com o objetivo 
 
 ## 7° TRABALHO
 Segue o link:
-# Entregou+
+ Entregou+
 
 Aplicativo desenvolvido no **Power Apps**, com apoio do **Power Automate**, para registrar e monitorar entregas logísticas.
 
-## 🔧 Objetivo
+ 🔧 Objetivo
 
 O sistema permite o gerenciamento de entregas com foco no controle de indicadores essenciais, como:
 
@@ -97,14 +97,14 @@ O sistema permite o gerenciamento de entregas com foco no controle de indicadore
 - **Power Automate** – envio automático de notificações de entregas com avarias  
 - **Dataverse** – armazenamento de dados estruturados em tabelas  
 
-## 🔎 Funcionalidades
+ 🔎 Funcionalidades
 
 - Registro de entregas, produtos, clientes e transportadoras  
 - Visualização de indicadores de desempenho logístico  
 - Interface intuitiva e responsiva  
 - Gatilhos automáticos com fluxo no Power Automate  
 
-## 🎥 Demonstração
+ 🎥 Demonstração
 
 O vídeo com o funcionamento do aplicativo está incluído neste repositório.  
 As capturas de tela mostram a interface principal e os dados registrados.
