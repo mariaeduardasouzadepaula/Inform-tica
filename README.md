@@ -125,6 +125,7 @@ https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/power%20apps.m
 
 # Dashboard com mapa, gráfico e visualização extra para analisar a produção de gás associado usando dados de março de 2025.
 https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariapw.pbix
+https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariapw%202025-06-26%2021-17-26.mp4
 ![image](https://github.com/user-attachments/assets/dc5eb2bf-353c-4840-95a7-68d596795518)
 
 
