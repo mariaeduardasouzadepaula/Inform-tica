@@ -123,7 +123,9 @@ Aplicativo criado no **Power Apps**, com apoio do **Power Automate**, para **ger
 https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/power%20apps.mp4
 ![image](https://github.com/user-attachments/assets/a4405648-0abc-434f-8899-32e3afd67048)
 
-
+# Dashboard com mapa, gráfico e visualização extra para analisar a produção de gás associado usando dados de março de 2025.
+https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariapw.pbix
+![image](https://github.com/user-attachments/assets/dc5eb2bf-353c-4840-95a7-68d596795518)
 
 
 
