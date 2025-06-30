@@ -124,7 +124,9 @@ Aplicativo criado no **Power Apps**, com apoio do **Power Automate**, para **ger
 # 📱 Aplicativo Power Apps
 
 Aplicativo simples de cadastro, desenvolvido em uma única tela, para registrar dados de produção de gás associado. Conta com campos personalizados e uma interface amigável para facilitar o uso.
-📎 Ver vídeo do aplicativo
+
+📎 Ver vídeo do aplicativo :
+
 https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/power%20apps.mp4
 ![image](https://github.com/user-attachments/assets/a4405648-0abc-434f-8899-32e3afd67048)
 
@@ -138,7 +140,8 @@ Gráfico de produção
 
 Visualização extra para análise dos dados de março de 2025
 
-📎 Download do arquivo .pbix📎 Ver vídeo do dashboard
+Ver vídeo do dashboard:
+
 https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariapw.pbix
 https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariapw%202025-06-26%2021-17-26.mp4
 ![image](https://github.com/user-attachments/assets/dc5eb2bf-353c-4840-95a7-68d596795518)
