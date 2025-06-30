@@ -59,6 +59,9 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 **Resultados:**  
 - Excel: função de tendência linear.  
 - Python: análise gráfica + métricas de desempenho.
+  Segue o link:
+  ![image](https://github.com/user-attachments/assets/2ecce01f-6520-4327-87d4-eeee7217b8bb)
+
 
 ### 🔹 Projeto 2: Consumo de Cerveja  
 **Diferença entre os modelos:**  
