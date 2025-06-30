@@ -86,7 +86,6 @@ Segue link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/Co
 
   Segue o link:[Download da Planilha Excel](https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/mariaedani.xlsx)  
 ![Regressão Excel](https://github.com/user-attachments/assets/6e9af2f0-812f-4476-b22e-773118dc5fec)
-  ![image](https://github.com/user-attachments/assets/81a660c3-8179-493e-9c4f-9e1ec33815cb)
 
 
 ---
