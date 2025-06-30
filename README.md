@@ -9,7 +9,7 @@ Trabalhos desenvolvidos na disciplina de **Informática** do curso de **Gestão 
 ---
 
 ## ATIVIDADE 2: Planilhas de custos
-Segue o link:
+Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/Planilha_Gastos_Pessoais_Com_Formulas%20(1).xlsx
 ![image](https://github.com/user-attachments/assets/e458e750-d58e-4a20-837b-248a5224663a)
 ![image](https://github.com/user-attachments/assets/d342d570-3b08-4031-a7bb-21011373691e)
 
