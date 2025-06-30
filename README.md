@@ -73,7 +73,7 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 **Comparação com artigo do Medium:**  
 Semelhante, porém com outras variáveis e dados.
 
-Segue link:
+Segue link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/Consumo_cerveja.xlsx
 ![image](https://github.com/user-attachments/assets/5d306242-5dc1-41c4-9b21-05547e051f0c)
 
 
