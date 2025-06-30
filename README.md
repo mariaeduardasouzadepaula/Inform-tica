@@ -59,7 +59,7 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 **Resultados:**  
 - Excel: função de tendência linear.  
 - Python: análise gráfica + métricas de desempenho.
-  Segue o link:
+  Segue o link:https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/Ice%20Cream.xlsx
   ![image](https://github.com/user-attachments/assets/2ecce01f-6520-4327-87d4-eeee7217b8bb)
 
 
@@ -72,6 +72,10 @@ Segue o link: https://github.com/mariaeduardasouzadepaula/Inform-tica/blob/main/
 
 **Comparação com artigo do Medium:**  
 Semelhante, porém com outras variáveis e dados.
+
+Segue link:
+![image](https://github.com/user-attachments/assets/5d306242-5dc1-41c4-9b21-05547e051f0c)
+
 
 ### 🔹 Projeto 3: Venda de Casas  
 **Objetivo:** Prever preços com base em variáveis como área, garagem, lareira etc.  
